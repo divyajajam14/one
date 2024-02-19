@@ -11,6 +11,7 @@
 	<h2 style="color: blue; font-size: 40px;" align="center">THIS IS NEXUS TOPIC</h2>
         <h2 style="color: red; font-size: 40px;" align="center">THIS IS OTHER TOPIC</h2>
         <h2 style="color: red; font-size: 40px;" align="center">THIS IS OTHER TOPIC2</h2>
+        <h2 style="color: blue; font-size: 40px;" align="center">THIS IS OTHER TOPIC2</h2>
 	
 	
 	
